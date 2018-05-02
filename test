@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#x03B4;<!-- δ --></mi>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>i</mi>
+    <mi>j</mi>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mo>{</mo>
+    <mtable columnalign="left left" rowspacing=".2em" columnspacing="1em" displaystyle="false">
+      <mtr>
+        <mtd>
+          <mn>1</mn>
+        </mtd>
+        <mtd>
+          <mi>i</mi>
+          <mi>f</mi>
+        </mtd>
+        <mtd>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mi>j</mi>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mn>0</mn>
+        </mtd>
+        <mtd>
+          <mi>i</mi>
+          <mi>f</mi>
+        </mtd>
+        <mtd>
+          <mi>i</mi>
+          <mo>&#x2260;<!-- ≠ --></mo>
+          <mi>j</mi>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo fence="true" stretchy="true" symmetric="true"></mo>
+  </mrow>
+</math>
